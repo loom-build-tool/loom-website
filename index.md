@@ -28,3 +28,8 @@ This builds sources beneath `src/main/java/` without external dependencies.
 For more info, visit the
 [Loom documentation](https://loom-build-tool.readthedocs.io) and our
 [example projects](https://github.com/loom-build-tool/loom-examples).
+
+
+# Loom quick demonstration (Video)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g8lLM5AovTI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
